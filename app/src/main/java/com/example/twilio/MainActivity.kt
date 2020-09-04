@@ -25,8 +25,8 @@ import java.util.concurrent.Executors
 
 
 class MainActivity : AppCompatActivity() {
-    val ACCOUNT_SID = "ACe2de2709947c015e947ff9411997a480"
-    val AUTH_TOKEN = "5136df8b0a2bc2feabe5e42fb96c3a8b"
+    val ACCOUNT_SID = "--"
+    val AUTH_TOKEN = "----"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
